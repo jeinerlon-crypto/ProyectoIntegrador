@@ -45,6 +45,17 @@ body{
     margin: 0;
     font-size: 50px;
 }
-
-
+.boton_w{
+  border-radius: 50%;
+  background-color: black;
+  width: 100px;
+  height: 100px;
+  bottom: 20px;
+  right: 20px;
+  position:fixed;
+}
+.imagen_w{
+  width: 100px;
+  height: 100px;
+}
 
